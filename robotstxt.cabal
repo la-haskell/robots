@@ -2,8 +2,8 @@ Name:          robotstxt
 Build-Type:    Simple
 Version:       0.1
 License-file:  LICENSE
-Author:        Los Angeles Haskell Meetup <joe@elem.com>
-Maintainer:    Los Angeles Haskell Meetup <joe@elem.com>
+Author:        Los Angeles Haskell Meetup <lahaskell@elem.com>
+Maintainer:    Los Angeles Haskell Meetup <lahaskell@elem.com>
 Synopsis:      parser for robots.txt files
 Description:   Parses robots.txt files and tells you if your robot is allowed to visit a given URL
                See www.robotstxt.org
